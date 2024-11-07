@@ -28,7 +28,6 @@ main {
 }
 
 .news-item {
-  margin-top: 0.5rem;
   display: flex;
   flex-direction: row;
   gap: 1rem;
